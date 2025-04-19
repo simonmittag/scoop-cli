@@ -7,7 +7,7 @@ Simon's cli packages for the Scoop package manager on Windows.
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://github.com/simonmittag/scoop-cli/blob/master/LICENSE.txt)
 
 
-## How do I install these buckets?
+## How do I install these packages?
 
 Just ```scoop bucket add simonmittag/scoop-cli``` to add to the list of your buckets, then ```scoop add <package>``` and you're done.
 
