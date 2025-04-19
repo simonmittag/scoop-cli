@@ -9,7 +9,7 @@ Simon's cli formulae for the Scoop package manager.
 
 ## How do I install these buckets?
 
-Just ```scoop bucket add simonmittag/scoop-cli``` to add the tap, then ```scoop add <bucket>``` and you're done.
+Just ```scoop bucket add simonmittag/scoop-cli``` to add to the list of your buckets, then ```scoop add <bucket>``` and you're done.
 
 ## More Documentation, Troubleshooting, Contributing, Security, Community, Donations, License and Sponsors
 
