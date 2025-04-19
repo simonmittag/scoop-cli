@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.1/caesarcipher_0.2.1_windows_amd64.tar.gz",
+            "bin": [
+                "caesar.exe"
+            ],
+            "hash": "b40507accefa08df19c344b44666c5307e58fcf9719a8964aac34bfb7c2aef64"
+        },
+        "arm64": {
+            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.1/caesarcipher_0.2.1_windows_arm64.tar.gz",
+            "bin": [
+                "caesar.exe"
+            ],
+            "hash": "efa470cfe5e2d6bf246d9708950b76e9b9b6cbb21afc25dfd7a53aeb14aa06a4"
+        }
+    },
+    "homepage": "https://github.com/simonmittag/caesarcipher",
+    "license": "Apache",
+    "description": "A simple Caesar cipher CLI tool."
+}
