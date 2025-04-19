@@ -1,6 +1,6 @@
 ![](scoop.png)
 
-Simon's cli formulae for the Scoop package manager.
+Simon's cli packages for the Scoop package manager on Windows.
 
 [![Github Issues](https://img.shields.io/github/issues/simonmittag/homebrew-cli)](https://github.com/simonmittag/scoop-cli/issues)
 [![Github Activity](https://img.shields.io/github/commit-activity/m/simonmittag/scoop-cli)](https://img.shields.io/github/commit-activity/m/simonmittag/scoop-cli)  
