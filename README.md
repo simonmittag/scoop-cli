@@ -9,7 +9,7 @@ Simon's cli packages for the Scoop package manager on Windows.
 
 ## How do I install these packages?
 
-Just ```scoop bucket add simonmittag simonmittag/scoop-cli``` to add to the list of your buckets, then ```scoop add <package>``` and you're done.
+Just ```scoop bucket add simonmittag https://github.com/simonmittag/scoop-cli``` to add to the list of your buckets, then ```scoop add <package>``` and you're done.
 
 ## More Documentation, Troubleshooting, Contributing, Security, Community, Donations, License and Sponsors
 
