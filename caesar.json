@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.1/caesarcipher_0.2.1_windows_amd64.tar.gz",
+            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.2/caesarcipher_0.2.2_windows_amd64.tar.gz",
             "bin": [
                 "caesar.exe"
             ],
-            "hash": "b40507accefa08df19c344b44666c5307e58fcf9719a8964aac34bfb7c2aef64"
+            "hash": "a8ba68f9fa2070466b40671b8ed3851331679335e3ae23ca0571ee3bbe6cd356"
         },
         "arm64": {
-            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.1/caesarcipher_0.2.1_windows_arm64.tar.gz",
+            "url": "https://github.com/simonmittag/caesarcipher/releases/download/v0.2.2/caesarcipher_0.2.2_windows_arm64.tar.gz",
             "bin": [
                 "caesar.exe"
             ],
-            "hash": "efa470cfe5e2d6bf246d9708950b76e9b9b6cbb21afc25dfd7a53aeb14aa06a4"
+            "hash": "eb73d0be71fa76d0db825bc9caf84dbdb0858882622366e1a6e6b9ccd4e28f1d"
         }
     },
     "homepage": "https://github.com/simonmittag/caesarcipher",
