@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.0/vigenerecipher_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "vigenere.exe"
+            ],
+            "hash": "f5b3600ac442c42f90414bb6f3054f27a394af556d8d32c706f3f2dd72a052af"
+        },
+        "arm64": {
+            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.0/vigenerecipher_0.1.0_windows_arm64.tar.gz",
+            "bin": [
+                "vigenere.exe"
+            ],
+            "hash": "90b0e5cc37a4cc52be50efb67cf7db43f29c9dabea083a70d942afcee386738c"
+        }
+    },
+    "homepage": "https://github.com/simonmittag/vigenerecipher",
+    "license": "Apache",
+    "description": "A simple Vigenere cipher CLI tool."
+}
