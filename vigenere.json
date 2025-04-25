@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.0/vigenerecipher_0.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.1/vigenerecipher_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "vigenere.exe"
             ],
-            "hash": "f5b3600ac442c42f90414bb6f3054f27a394af556d8d32c706f3f2dd72a052af"
+            "hash": "027a452233c203dd47210739584f6d103d355b768789ad6d44cb5a0c75d64880"
         },
         "arm64": {
-            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.0/vigenerecipher_0.1.0_windows_arm64.tar.gz",
+            "url": "https://github.com/simonmittag/vigenerecipher/releases/download/v0.1.1/vigenerecipher_0.1.1_windows_arm64.tar.gz",
             "bin": [
                 "vigenere.exe"
             ],
-            "hash": "90b0e5cc37a4cc52be50efb67cf7db43f29c9dabea083a70d942afcee386738c"
+            "hash": "9c2b257d7798b1cfa2a91a3e1e5cb1ce638744b5d8f3b4ef772ed8b5d31aa2d8"
         }
     },
     "homepage": "https://github.com/simonmittag/vigenerecipher",
